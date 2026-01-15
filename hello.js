@@ -5,6 +5,7 @@ to the console (the panel on the right)
 */
 
 console.log("Hello, world!");
+console.log("checking to see if github is connected");
 
 /*  
 Next, PLAY! 
